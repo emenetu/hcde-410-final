@@ -1,1 +1,3 @@
 # hcde-410-final
+
+With this project we will be able to better understand how people in the Central District are affected by gentrification, and specifically if it has to do with race and income. While we know gentrification occurs in other larger suburban areas within America, this would give us a better understanding on how it specifically occurs within our own neighborhoods. It would also make us think about the inequities faced by minorities within the city, an ugly truth many people choose to avoid. Overall, I think this research will help us to ensure that as a society and a city we are working to provide equitable opportunities for all residents.
